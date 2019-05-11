@@ -9,13 +9,13 @@ namespace AnyNamespace
 
         public Main()
         {
-            JustAClass secondClass = new JustAClass();
-			Events.OnPlayerEnterVehicle += VehicleEnter;
+        	JustAClass secondClass = new JustAClass();
+		Events.OnPlayerEnterVehicle += VehicleEnter;
         }
 
-		private void VehicleEnter(Client client, Vehicle vehicle, sbyte seatID){
-			Console.WriteLine($"Player {client.Name} entered vehicle id {vehicle.Value}");
-		}
+	private void VehicleEnter(Client client, Vehicle vehicle, sbyte seatID){
+		Console.WriteLine($"Player {client.Name} entered vehicle id {vehicle.Value}");
+	}
 		
     }
 }
