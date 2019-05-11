@@ -4,7 +4,7 @@ OOP Implementation of the RAGEMP server events (so you don't have to use [Comman
 ## How to use
 1. Copy `/client_packages/cs_packages/CustomCommands.cs` to your server client resources (`server-files/client_packages/cs_packages`).
 
-2. From folder `/server` import `Delegates.cs` and `Events.cs` into your server-side project.
+2. From folder '[server](https://github.com/robertnisipeanu/ragemp-server-events/tree/master/server "server")' import `Delegates.cs` and `Events.cs` into your server-side project.
 
 3. Add `using robearded;` at the top of the files where you want to use my API.
 
@@ -18,7 +18,7 @@ If any other events will be custom implemented they will be added here ^
 
 ## Example
 
-You can find an example inside the `/example` folder.
+You can find an example inside the '[example](https://github.com/robertnisipeanu/ragemp-server-events/tree/master/example "`/example`")' folder.
 
 ## Need help?
 Please do not contact me if you didn't followed the above steps, I'm not gonna tell you again the steps in private when you have them here.
