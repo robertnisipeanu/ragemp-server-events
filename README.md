@@ -20,7 +20,3 @@ If any other events will be custom implemented they will be added here ^
 
 You can find an example inside the '[example](https://github.com/robertnisipeanu/ragemp-server-events/tree/master/example "`/example`")' folder.
 
-## Need help?
-Please do not contact me if you didn't followed the above steps, I'm not gonna tell you again the steps in private when you have them here.
-
-If you any other help, feel free to contact me on Discord at `@rumble06#4127` or on RAGE.MP Forums at https://rage.mp/profile/45121-robearded/
